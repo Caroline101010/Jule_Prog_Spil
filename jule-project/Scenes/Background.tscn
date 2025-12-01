@@ -11,8 +11,8 @@
 [ext_resource type="PackedScene" uid="uid://doc4lhtnpjv23" path="res://Scenes/woman_adult.tscn" id="7_rqs8y"]
 [ext_resource type="PackedScene" uid="uid://6uiu0h3rg2ky" path="res://Scenes/snowball_norm.tscn" id="8_hcp8y"]
 [ext_resource type="PackedScene" uid="uid://dd66pocfshpjm" path="res://Scenes/Snowball_Piss.tscn" id="9_rqs8y"]
-[ext_resource type="Script" uid="uid://bv5xxof1rhnu7" path="res://Snowball.gd" id="9_vxnle"]
-[ext_resource type="Script" uid="uid://cpm2t581reoct" path="res://Snowball2.gd" id="11_8sjso"]
+[ext_resource type="Texture2D" uid="uid://cftxuilp2ucen" path="res://Assets/Other/UISneboldkasse.png" id="12_cboml"]
+[ext_resource type="Texture2D" uid="uid://7tw3nwiphg28" path="res://Assets/Other/Snowball.png" id="13_jwwbk"]
 
 [sub_resource type="TileSetAtlasSource" id="TileSetAtlasSource_kc7sw"]
 texture = ExtResource("1_c8m3x")
@@ -875,10 +875,14 @@ position = Vector2(267, -440)
 
 [node name="Snowball_Norm" parent="." instance=ExtResource("8_hcp8y")]
 position = Vector2(209, 231)
-script = ExtResource("9_vxnle")
-id = 1
 
 [node name="Snowball_Piss" parent="." instance=ExtResource("9_rqs8y")]
 position = Vector2(-5, -94)
-script = ExtResource("11_8sjso")
-id = 1
+
+[node name="UiSneboldkasse" type="Sprite2D" parent="."]
+position = Vector2(519, 283)
+texture = ExtResource("12_cboml")
+
+[node name="Snowball" type="Sprite2D" parent="."]
+position = Vector2(551, 268)
+texture = ExtResource("13_jwwbk")
