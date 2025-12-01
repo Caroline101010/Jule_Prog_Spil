@@ -1,5 +1,5 @@
 63f7b34db8d8cdea90c76aacccf841ec
-::res://::1764056415
+::res://::1764573123
 EnemyMovementManager.gd::GDScript::7643737988724120263::1763969692::0::1::::<>Node<><>0<>0<><>::
 Snowball2.gd::GDScript::5852121471777555007::1763969692::0::1::::<>CharacterBody2D<><>0<>0<><>::
 Snowball.gd::GDScript::3923756041062269380::1763969692::0::1::::<>CharacterBody2D<><>0<>0<><>::
@@ -9,7 +9,7 @@ SnowballSwitchManager.gd::GDScript::6638236209397474161::1763969692::0::1::::<>N
 1_Back_Layer.png::CompressedTexture2D::4675790683892456716::1763969692::1763969739::1::::<><><>0<>0<>436e86e102238c5008ffdeae031c9854<>res://.godot/imported/1_Back_Layer.png-9853725725834f9da4708be90d686a44.ctex::
 2_Middle_Layer.png::CompressedTexture2D::2377880472379122304::1763969692::1763969739::1::::<><><>0<>0<>843e271420a4b4590ae2ec6ce7747a7c<>res://.godot/imported/2_Middle_Layer.png-e102b885d93cd21fea629cd99846d963.ctex::
 3_Both_Layers.png::CompressedTexture2D::3034346100722107924::1763969692::1763969739::1::::<><><>0<>0<>1088261ad17f05923247207a3d0e2580<>res://.godot/imported/3_Both_Layers.png-4d210388b464f6f0ff23cafed1692823.ctex::
-::res://Assets/Other/::1764056475
+::res://Assets/Other/::1764056511
 Snowball.png::CompressedTexture2D::2286652666987431799::1763969692::1763969739::1::::<><><>0<>0<>cc9c03fafd0eb15a340f06764e6a11ac<>res://.godot/imported/Snowball.png-626425178d7aa6ede00211c8fa4869be.ctex::
 Snowball_Piss.png::CompressedTexture2D::8219582704926168828::1763969692::1763969739::1::::<><><>0<>0<>96664c9233535e162c0d5cf7dd31336d<>res://.godot/imported/Snowball_Piss.png-e3fa4841ffbe10b14d4b1decd5f82c12.ctex::
 UISneboldkasse.png::CompressedTexture2D::5164441407513277069::1763627237::1764056511::1::::<><><>0<>0<>c9555384b35da2fce93dca6107f706bb<>res://.godot/imported/UISneboldkasse.png-72d8230f33202382d4aa63cf633f42c7.ctex::
@@ -20,7 +20,7 @@ Oldman_Voksen.png::CompressedTexture2D::3521594553936187867::1763969692::1763969
 OldWoman_Voksen.png::CompressedTexture2D::7208079389736154625::1763969692::1763969739::1::::<><><>0<>0<>479cc8d2fecc5b1780671f8df9668b60<>res://.godot/imported/OldWoman_Voksen.png-97a9576c28fef4c86a16dab2b8a61fe3.ctex::
 Police.png::CompressedTexture2D::7582683050754383900::1763969692::1763969739::1::::<><><>0<>0<>e90dcfb55802984c4840bf4085ad239f<>res://.godot/imported/Police.png-d83a4a7274baa158daf09b98d2cc24e6.ctex::
 Santa_Player.png::CompressedTexture2D::304922553431074720::1763969692::1763969739::1::::<><><>0<>0<>cfbfacff44d29ed503f9bf5069713533<>res://.godot/imported/Santa_Player.png-2cb68d8f28a15b11150af7d7e208e7ec.ctex::
-::res://Scenes/::1763969692
+::res://Scenes/::1764056836
 Background.tscn::PackedScene::7306795034693255223::1763969692::0::1::::<><><>0<>0<><>::uid://bjh4ib6kae2tc::::res://Assets/Background/3_Both_Layers.png<>uid://cshvinl50v0oy::::res://Script/background.gd<>uid://brjmhxstxkf4s::::res://Scenes/Santa.tscn<>uid://56mltrba1vws::::res://Scenes/Kid_Boy.tscn<>uid://bldwpom4ordwx::::res://Script/kid_boy.gd<>uid://conrvercpmdm1::::res://Scenes/kid_girl.tscn<>uid://b8joyn34n8vw7::::res://Scenes/man_adult.tscn<>uid://clh60wytdy4it::::res://Scenes/police.tscn<>uid://doc4lhtnpjv23::::res://Scenes/woman_adult.tscn<>uid://6uiu0h3rg2ky::::res://Scenes/snowball_norm.tscn<>uid://dd66pocfshpjm::::res://Scenes/Snowball_Piss.tscn<>uid://bv5xxof1rhnu7::::res://Snowball.gd<>uid://cpm2t581reoct::::res://Snowball2.gd
 Kid_Boy.tscn::PackedScene::2170410291414786178::1763969692::0::1::::<><><>0<>0<><>::uid://b5rnuckpv1a1k::::res://Assets/People/Boy_Barn.png
 kid_girl.tscn::PackedScene::5783392016136932366::1763969692::0::1::::<><><>0<>0<><>::uid://qxy54ju7fx2h::::res://Assets/People/Girl_Barn.png<>uid://bqyfwb5h41t8x::::res://Script/kid_girl.gd
@@ -28,6 +28,7 @@ main_manu.tscn::PackedScene::8552861916337090824::1763969692::0::1::::<><><>0<>0
 man_adult.tscn::PackedScene::4722125547881552984::1763969692::0::1::::<><><>0<>0<><>::uid://bqf5fa32w2jip::::res://Assets/People/Oldman_Voksen.png<>uid://ccbk8jm6weq81::::res://Script/man_adult.gd
 police.tscn::PackedScene::5561297356763627879::1763969692::0::1::::<><><>0<>0<><>::uid://dtr63bqh61ulx::::res://Script/police.gd<>uid://dgbdxgnn6b1cy::::res://Assets/People/Police.png
 Santa.tscn::PackedScene::3598952766534662816::1763969692::0::1::::<><><>0<>0<><>::uid://elybatnqq3ro::::res://Assets/People/Santa_Player.png
+Snowballbox.tscn::PackedScene::4036346863211499984::1764056836::0::1::::<><><>0<>0<><>::
 snowball_norm.tscn::PackedScene::2217664484872990552::1763969692::0::1::::<><><>0<>0<><>::uid://274pnhs74iuy::::res://Script/snowball_norm.gd<>uid://7tw3nwiphg28::::res://Assets/Other/Snowball.png
 Snowball_Piss.tscn::PackedScene::7435734044721622002::1763969692::0::1::::<><><>0<>0<><>::uid://un8leodyparf::::res://Script/snowball_piss.gd<>uid://dpdvldfdccsc7::::res://Assets/Other/Snowball_Piss.png
 woman_adult.tscn::PackedScene::8147815451668876830::1763969692::0::1::::<><><>0<>0<><>::uid://blfgw6jvr14y5::::res://Script/woman_adult.gd<>uid://daxwaqxmropd6::::res://Assets/People/OldWoman_Voksen.png
