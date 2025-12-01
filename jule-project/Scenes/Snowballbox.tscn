@@ -1,0 +1,4 @@
+[gd_scene format=3 uid="uid://bxribp31b4yqy"]
+
+[node name="Snowballbox" type="Node2D"]
+position = Vector2(100, 548)
